@@ -36,4 +36,6 @@ python3 main_reproduction_speck_averaging_batches.py
 
 ## Demo
 
-A demo will be available in Colab soon.
+Colab demo:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnonymousSubmissionEuroCrypt2021/A-Deeper-Look-at-Machine-Learning-Based-Cryptanalysis-v5/]
