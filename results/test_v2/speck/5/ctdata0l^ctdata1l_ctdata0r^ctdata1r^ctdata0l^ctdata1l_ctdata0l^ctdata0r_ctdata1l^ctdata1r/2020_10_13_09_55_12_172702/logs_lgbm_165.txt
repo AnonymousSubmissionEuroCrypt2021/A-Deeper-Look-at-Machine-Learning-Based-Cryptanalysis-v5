@@ -1,0 +1,19 @@
+ACCURACY
+0.8557
+Confusion matrix
+[[4612  374]
+ [1069 3945]]
+[[0.92498997 0.07501003]
+ [0.21320303 0.78679697]]
+              precision    recall  f1-score   support
+
+      random     0.8118    0.9250    0.8647      4986
+       speck     0.9134    0.7868    0.8454      5014
+
+    accuracy                         0.8557     10000
+   macro avg     0.8626    0.8559    0.8551     10000
+weighted avg     0.8628    0.8557    0.8550     10000
+
+Mean Absolute Error: 27.2969
+Mean Squared Error: 0.1443
+Root Mean Squared Error: 0.37986839826445157
