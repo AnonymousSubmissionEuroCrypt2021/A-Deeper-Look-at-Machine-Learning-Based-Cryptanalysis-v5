@@ -4,8 +4,8 @@ Code project
 ## Requirements
 
 This project was coded in python3.6
-Requires libraries can be found in requirements.txt
-The version of the library will be release soon
+Requires libraries can be found in requirements.txt.
+Version of the libraries will be release soon
 
 ## Reproductibility
 
@@ -40,6 +40,7 @@ Colab demo:
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnonymousSubmissionEuroCrypt2021/A-Deeper-Look-at-Machine-Learning-Based-Cryptanalysis-v5/blob/master/demo.ipynb)
+
 
 
 ## Summary of the analysis of the pipeline
