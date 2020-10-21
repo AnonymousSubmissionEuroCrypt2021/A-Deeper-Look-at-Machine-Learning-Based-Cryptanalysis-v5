@@ -71,7 +71,7 @@ This figure shows the decision tree for the classification.
 
 These figures show how important is each bit for the decision of the neural distinguisher for different methods.
 
-![image](img/Comparing input feature importances across multiple algorithms and abs_mean for segment 0.9|0.5number 1 2.png)
+![image](img/Comparing.png)
 
 #### Other 
 
